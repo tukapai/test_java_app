@@ -1,5 +1,3 @@
-
-
 package com.example.tukapai;
 
 import org.junit.Test;
