@@ -1,4 +1,4 @@
-package com.example;
+package com.example.tukapai;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
