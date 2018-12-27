@@ -2,8 +2,8 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var request = require('superagent');
 
-//フォームとリストを一つにしたもの
-var UserBox = React.createClass({
+
+var User = React.createClass({
   getInitialState:function(){
     return {userData:[]};
   },
@@ -14,4 +14,4 @@ var UserBox = React.createClass({
   }
 });
 
-module.exports = UserBox;
+module.exports = User;
